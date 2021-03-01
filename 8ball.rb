@@ -31,7 +31,8 @@ answers = [
     "По моим данным - нет",
     "Перспективы не очень хорошие",
     "Весьма сомнительн"
-    ]
+]
+
 puts greetings.sample
 sleep 2
 puts answers.sample
